@@ -15,3 +15,10 @@ update:
 
 ## Notes
 1. Streamlit example code is based on this example multiple page app: https://docs.streamlit.io/get-started/tutorials/create-a-multipage-app
+
+
+## Other considerations
+1. If we want to secure the app for internal use. We would need to do some work using PrivateLink
+   https://learn.microsoft.com/en-us/azure/app-service/overview-private-endpoint
+
+[!https://learn.microsoft.com/en-us/azure/app-service/media/overview-private-endpoint/global-schema-web-app.png]
