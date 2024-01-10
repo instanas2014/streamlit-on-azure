@@ -2,7 +2,7 @@
 demonstrate  streamlit app deploy on azure
 
 ## Context
-As I recently faced this question in my work, I decided did some research how to deploy streamlit in Azure
+As I recently faced this question in my work, I decided did some research how to deploy streamlit on Azure
 
 Why deploy streamlit on azure?
 Streamlit has managed services with Snowflake , however it is only GA with AWS. so if you are azure user , you would need to find alternative to deploy
