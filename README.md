@@ -21,4 +21,4 @@ update:
 1. If we want to secure the app for internal use. We would need to do some work using PrivateLink
    https://learn.microsoft.com/en-us/azure/app-service/overview-private-endpoint
 
-[!https://learn.microsoft.com/en-us/azure/app-service/media/overview-private-endpoint/global-schema-web-app.png]
+[![App Private Link](https://learn.microsoft.com/en-us/azure/app-service/media/overview-private-endpoint/global-schema-web-app.png)]
